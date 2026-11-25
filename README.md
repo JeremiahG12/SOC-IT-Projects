@@ -19,7 +19,6 @@ Hands on cybersecurity and IT work covering incident response, SIEM detection, g
 # Descriptions
 
  # SnowBe Online- Security Plan (Capstone)
-
 co-led a team of 5 to build a security program for SnowBe Online, a fictional e-commerce company: a security plan template, policies, and compensating controls mapped to NIST SP 800-53 / RMF, with PCI DSS and GDPR    compliance requirements. 
 
  Skills Shown: Risk assessment, control selection, policy writing, compliance mapping.
@@ -35,6 +34,12 @@ co-led a team of 5 to build a security program for SnowBe Online, a fictional e-
  Investigations built on Windows event logs: event-code inventory, process chaining by processGuid, and SPL searches for suspicious activity.
 
  Skills Shown: SPL, threat hunting, Windows logging
+
+ # Home Server
+
+ Segmented home network with dedicated firewall, managed switch, VLANS, and TrueNAS server. Running Virtual machines for Splunk, Immich instance for photo hosting, Jellyfin for media streaming.
+
+ Skills Shown: Firewall & VLAN configuration, selfhosting, network segmentatiom
 
  
 
