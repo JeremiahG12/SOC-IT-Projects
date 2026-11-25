@@ -30,6 +30,12 @@ co-led a team of 5 to build a security program for SnowBe Online, a fictional e-
 
  Skills Shown: Log analysis, attack-chain reconstruction, detection engineering, IR reporting
 
+ # Splunk SOC Lab
+
+ Investigations built on Windows event logs: event-code inventory, process chaining by processGuid, and SPL searches for suspicious activity.
+
+ Skills Shown: SPL, threat hunting, Windows logging
+
  
 
  
