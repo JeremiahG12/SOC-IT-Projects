@@ -24,22 +24,19 @@ co-led a team of 5 to build a security program for SnowBe Online, a fictional e-
  Skills Shown: Risk assessment, control selection, policy writing, compliance mapping.
 
  # Incident Response: Phishing -> DCSync
+An Incident response report following an attack chain from initial phishing email to credential theft via DCSync against an Active Directory. Includes a timeline, MITRE ATT&CK mapping, defanged IOCs, and Splunk detection logic.
 
- An Incident response report following an attack chain from initial phishing email to credential theft via DCSync against an Active Directory. Includes a timeline, MITRE ATT&CK mapping, defanged IOCs, and Splunk detection logic.
-
- Skills Shown: Log analysis, attack-chain reconstruction, detection engineering, IR reporting
+Skills Shown: Log analysis, attack-chain reconstruction, detection engineering, IR reporting
 
  # Splunk SOC Lab
+Investigations built on Windows event logs: event-code inventory, process chaining by processGuid, and SPL searches for suspicious activity.
 
- Investigations built on Windows event logs: event-code inventory, process chaining by processGuid, and SPL searches for suspicious activity.
-
- Skills Shown: SPL, threat hunting, Windows logging
+Skills Shown: SPL, threat hunting, Windows logging
 
  # Home Server
+Segmented home network with dedicated firewall, managed switch, VLANS, and TrueNAS server. Running Virtual machines for Splunk, Immich instance for photo hosting, Jellyfin for media streaming.
 
- Segmented home network with dedicated firewall, managed switch, VLANS, and TrueNAS server. Running Virtual machines for Splunk, Immich instance for photo hosting, Jellyfin for media streaming.
-
- Skills Shown: Firewall & VLAN configuration, selfhosting, network segmentatiom
+Skills Shown: Firewall & VLAN configuration, selfhosting, network segmentatiom
 
  
 
