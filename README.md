@@ -22,6 +22,7 @@ Hands on cybersecurity and IT work covering incident response, SIEM detection, g
 co-led a team of 5 to build a security program for SnowBe Online, a fictional e-commerce company: a security plan template, policies, and compensating controls mapped to NIST SP 800-53 / RMF, with PCI DSS and GDPR    compliance requirements. 
 
  Skills Shown: Risk assessment, control selection, policy writing, compliance mapping.
+ SnowBe Online — Security & Compliance Assessment.pdf
 
  # Incident Response: Phishing -> DCSync
 An Incident response report following an attack chain from initial phishing email to credential theft via DCSync against an Active Directory. Includes a timeline, MITRE ATT&CK mapping, defanged IOCs, and Splunk detection logic.
