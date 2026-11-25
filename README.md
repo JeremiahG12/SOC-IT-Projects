@@ -10,7 +10,7 @@ Hands on cybersecurity and IT work covering incident response, SIEM detection, g
 # Projects
  | Project | Focus | Tools/Frameworks |
  |:------- |:----: | :--------------: |
- |SnowBe Online | GRC | NIST 800-53, RMF, PCIDSS, GDPR |
+ |SnowBe Online- Security Plan consulting | GRC | NIST 800-53, RMF, PCIDSS, GDPR |
  | Incident Response: Phishing -> DCSync | DFIR/Detection | Splunk, MITRE ATT&CK |
  | Splunk SOC Lab | SIEM/Threat Hunting | Splunk, Windows Event Logs, Sysmon | 
  | Home Server | Network Security/Infrastructure | OPNsense, TrueNAS, Cloudflared Tunnel |
