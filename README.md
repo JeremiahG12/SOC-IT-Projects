@@ -1,4 +1,12 @@
-# SOC-IT-Projects
-Storing completed write ups, and related documentation for Security Projects
+# Security Operations and IT Portfolio- Jeremiah Green
+Hands on cybersecurity and IT work covering incident response, SIEM detection, governance/risk/compliance (GRC), and infrastructure. Each project folder has its own write-up, artifacts, and lessons learned. 
 
+Credentials 
+* Blue Team Level 1 (BTL1)- Centri 
+* B.S. Cybersecurity- Full Sail University
+* CompTIA Security + (SYO-701)- in progress
+* Six Sigma Green belt- MSI Certified
 
+ | Project | Focus | Tools/Frameworks |
+ |:------- |:----: | :--------------: |
+ |SnowBe Online | GRC | NIST 800-53, RMF, PCIDSS, GDPR |
