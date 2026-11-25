@@ -18,10 +18,10 @@ Hands on cybersecurity and IT work covering incident response, SIEM detection, g
  
 # Descriptions
 
-SnowBe Online- Security Plan (Capstone)
+ # SnowBe Online- Security Plan (Capstone)
 
- co-led a team of 5 to build a security program for SnowBe Online, a fictional e-commerce company: a security plan template, policies, and compensating controls mapped to NIST SP 800-53 / RMF, with PCI DSS and GDPR compliance requirements. 
+co-led a team of 5 to build a security program for SnowBe Online, a fictional e-commerce company: a security plan template, policies, and compensating controls mapped to NIST SP 800-53 / RMF, with PCI DSS and GDPR    compliance requirements. 
 
- #Skills Shown: Risk assessment, control selection, policy writing, compliance mapping.
+ # Skills Shown: Risk assessment, control selection, policy writing, compliance mapping.
 
  
