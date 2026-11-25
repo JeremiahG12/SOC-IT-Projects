@@ -10,5 +10,8 @@ Credentials
  | Project | Focus | Tools/Frameworks |
  |:------- |:----: | :--------------: |
  |SnowBe Online | GRC | NIST 800-53, RMF, PCIDSS, GDPR |
- | Incident Response: Phishing -> DCSync | DFIR/Detection | Splunk, MITRE ATT&CK, Autopsy, Wireshark |
+ | Incident Response: Phishing -> DCSync | DFIR/Detection | Splunk, MITRE ATT&CK |
+ | Splunk SOC Lab | SIEM/Threat Hunting | Splunk, Windows Event Logs, Sysmon | 
+ | Home Server | Network Security/Infrastructure | OPNsense, TrueNAS, Cloudflared Tunnel |
+ | Work Projects- CBB & Delta | Automation/Data Analytics | PowerBi, PowerApps, Sharepoint, SQL Server | 
  
