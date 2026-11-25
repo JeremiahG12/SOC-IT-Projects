@@ -10,3 +10,5 @@ Credentials
  | Project | Focus | Tools/Frameworks |
  |:------- |:----: | :--------------: |
  |SnowBe Online | GRC | NIST 800-53, RMF, PCIDSS, GDPR |
+ | Incident Response: Phishing -> DCSync | DFIR/Detection | Splunk, MITRE ATT&CK, Autopsy, Wireshark |
+ 
